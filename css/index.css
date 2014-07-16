@@ -59,7 +59,7 @@ section {
 header {
   background-color: #333333;  
 /* You can change the header background image here */    
-  background-image: url(../images/header-background.jpg);
+  background-image: url(http://images4.fanpop.com/image/photos/16100000/Cute-Kitten-kittens-16122868-1280-800.jpg);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -95,7 +95,7 @@ header {
 
 #section-five {
   background-color: #cc0000;
-  background-image: url(../images/tree_bark.png);
+  background-image: url(http://ts4.mm.bing.net/th?id=HN.608020648951350627&pid=1.7);
 }
 
 .tree {
